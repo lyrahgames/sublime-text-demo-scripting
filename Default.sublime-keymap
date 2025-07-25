@@ -1,0 +1,10 @@
+[
+  {
+    "keys": ["ctrl+enter"], "command": "demo_scripting_run_lua_block",
+    "context": [{ "key": "selector", "operator": "equal", "operand": "source.lua" }]
+  },
+  {
+    "keys": ["ctrl+alt+enter"], "command": "demo_scripting_run_all",
+    "context": [{ "key": "selector", "operator": "equal", "operand": "source.lua" }]
+  },
+]

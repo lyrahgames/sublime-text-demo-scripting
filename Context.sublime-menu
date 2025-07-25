@@ -1,0 +1,21 @@
+[
+  {"caption": "-", "id": "demo_scripting_separator_1"},
+  {
+    "caption": "Demo Scripting",
+    "id": "demo_scripting_main_menu",
+    "children": [
+      {
+        "command": "demo_scripting_run_all",
+        "caption": "Run All"
+      },
+      {
+        "command": "demo_scripting_run_line",
+        "caption": "Run Lines and Selection"
+      },
+      {
+        "command": "demo_scripting_run_lua_block",
+        "caption": "Run Lua-like Blocks and Selection"
+      },
+    ]
+  }
+]

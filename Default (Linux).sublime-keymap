@@ -1,4 +1,0 @@
-[
-  {"keys": ["ctrl+enter"], "command": "demo_scripting_smart_select"},
-  {"keys": ["ctrl+alt+enter"], "command": "demo_scripting_select_all"},
-]

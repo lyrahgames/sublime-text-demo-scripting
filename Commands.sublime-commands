@@ -1,0 +1,14 @@
+[
+  {
+    "caption": "Demo Scripting: Run All",
+    "command": "demo_scripting_run_all"
+  },
+  {
+    "caption": "Demo Scripting: Run Lines and Selection",
+    "command": "demo_scripting_run_line"
+  },
+  {
+    "caption": "Demo Scripting: Run Lua-like Blocks and Selection",
+    "command": "demo_scripting_run_lua_block"
+  },
+]
